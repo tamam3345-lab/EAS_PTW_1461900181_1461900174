@@ -5,7 +5,7 @@
         <div class="col-md-8 mt-2">
             <nav aria-label="breadcrumb">
                 <ol class="breadcrumb">
-                    <li class="breadcrumb-item"><a href="{{ url('admin') }}">List BirthdayCake</a></li>
+                    <li class="breadcrumb-item"><a href="{{ url('admin') }}">kotapudak</a></li>
                     <li class="breadcrumb-item"><a href="{{ url('admin-laporan') }}">Laporan</a></li>
                     <li class="breadcrumb-item active" aria-current="page">Data User</li>
                 </ol>
