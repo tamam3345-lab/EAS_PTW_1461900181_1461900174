@@ -7,7 +7,7 @@
             <div class="card">
                 {{-- BANNER --}}
                 <div class="banner">
-                    <img src="{{ url('assets/slider/slider1.png') }}" alt="" width="105%">
+                    <img src="{{ url('assets/slider1.png') }}" alt="" width="95%">
                 </div>
 
                 {{-- BEST Product --}}
